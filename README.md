@@ -1,4 +1,4 @@
-# TFG_JoanCamps
+# Joan Camps' Final Degree Project
 Several software resources used during the development of the project.
 
 **Abstract:** 
